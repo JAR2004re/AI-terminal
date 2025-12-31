@@ -1,3 +1,8 @@
+## Note
+This repository is a **personal implementation created for demonstration and learning purposes**.
+The original collaborative repository is kept private due to **academic integrity and plagiarism constraints**.
+This version showcases my individual understanding and contributions to the project.
+
 # Chopper AI - Your Terminal AI Assistant
 <p>
 <img src="chopper/assets/logo.jpeg" width="250">
